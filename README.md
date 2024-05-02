@@ -1,4 +1,4 @@
-### Olá! eu sou o Karlyamon Alves 😄
+### Olá! eu me chamo Karlyamon Alves 😄
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlyamon-alves/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amoncodbr/)
